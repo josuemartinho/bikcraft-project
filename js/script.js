@@ -1,5 +1,4 @@
 //ativar links do menu
-console.log("teste");
 const links = document.querySelectorAll(".header-menu a");
 
 function ativarLink(link) {
